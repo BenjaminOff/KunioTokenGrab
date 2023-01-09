@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-[Discord] - Token Grabber
+[Discord] - Kunio Token Grabber
 
 PATCHED USE THIS ONE
 <a href="https://github.com/KunioDev/Discord-Token-Grabber">Discord-Token-Grabber-</a>
@@ -13,13 +13,13 @@ PATCHED USE THIS ONE
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3-informational.svg">
   </a>
-  <a href="https://github.com/AstraaDev/Discord-All-Tools-In-One">
+  <a href="https://github.com/KunioDev/Discord-All-Tools-In-One">
     <img src="https://img.shields.io/badge/covarage-100%25-fluogreen">
   </a>
-  <a href="https://github.com/AstraaDev">
+  <a href="https://github.com/KunioDev">
     <img src="https://img.shields.io/github/repo-size/AstraaDev/Discord-Token-Grabber.svg?label=Repo%20size&style=flat-square">
   </a>
-  <a href="https://github.com/AstraaDev">
+  <a href="https://github.com/KunioDv">
     <img src="https://gpvc.arturio.dev/AstraaDev">
   </a>
     <p align="center"> <a href="https://twitter.com/astraadev" target="blank">
