@@ -19,11 +19,11 @@ PATCHED USE THIS ONE
   <a href="https://github.com/KunioDev">
     <img src="https://img.shields.io/github/repo-size/AstraaDev/Discord-Token-Grabber.svg?label=Repo%20size&style=flat-square">
   </a>
-  <a href="https://github.com/KunioDv">
+  <a href="https://github.com/KunioDev">
     <img src="https://gpvc.arturio.dev/AstraaDev">
   </a>
-    <p align="center"> <a href="https://twitter.com/astraadev" target="blank">
-    <img src="https://img.shields.io/twitter/follow/astraadev?logo=twitter&style=for-the-badge" alt="astraadev"/></a>
+    <p align="center"> <a href="https://twitter.com/Kunio_bg" target="blank">
+    <img src="https://img.shields.io/twitter/follow/astraadev?logo=twitter&style=for-the-badge" alt="kunio_bg"/></a>
   </a>
 </p>
 
