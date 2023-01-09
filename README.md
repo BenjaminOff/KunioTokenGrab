@@ -20,10 +20,10 @@ PATCHED USE THIS ONE
     <img src="https://img.shields.io/github/repo-size/AstraaDev/Discord-Token-Grabber.svg?label=Repo%20size&style=flat-square">
   </a>
   <a href="https://github.com/KunioDev">
-    <img src="https://gpvc.arturio.dev/AstraaDev">
+    <img src="https://gpvc.arturio.dev/KunioDev">
   </a>
     <p align="center"> <a href="https://twitter.com/Kunio_bg" target="blank">
-    <img src="https://img.shields.io/twitter/follow/astraadev?logo=twitter&style=for-the-badge" alt="kunio_bg"/></a>
+    <img src="https://img.shields.io/twitter/follow/Kunio_bg?logo=twitter&style=for-the-badge" alt="kunio_bg"/></a>
   </a>
 </p>
 
